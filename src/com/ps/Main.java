@@ -15,6 +15,7 @@ public class Main {
         System.out.println(c);
         System.out.println(ab);
         System.out.println("Main.main");
+        System.out.println("branch1");
         System.out.println("master branch");
 
     }
